@@ -3,7 +3,7 @@
 ### I am a stoic that loves to build web apps
 
 **I'm currently working on 👨🏻‍💻 :**
-- A blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com))
+- A blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com)) - [jacob-ian/PortfolioWeb](https://github.com/jacob-ian/PortfolioWeb)
 
 **I'm currently studying 📖:**
 - *Clean Code* by Uncle Bob
