@@ -17,7 +17,7 @@
 - TypeScript
 - Java
 
-**📚 &nbsp; My favourite libaries are:**
+**📚 &nbsp; My favourite libraries are:**
 - [Angular](https://github.com/angular/angular)
 - [RxJS](https://github.com/ReactiveX/rxjs)
 - [Deno](https://github.com/denoland/deno)
