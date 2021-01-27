@@ -8,6 +8,11 @@
 **I'm currently studying 📖:**
 - *Clean Code* by Uncle Bob
 
+**My favourite projects are 🔥:**
+- 📃 [transcrypt.app](https://transcrypt.app), the free YouTube video transcript downloader: [jacob-ian/TranscryptApp](https://github.com/jacob-ian/TranscryptApp)
+- 📡 PulsarClassifier, a machine learning program that detects pulsars from CIRA radio telescope data: [jacob-ian/PulsarClassifier](https://github.com/jacob-ian/PulsarClassifier)
+- 🦕 Deno Random Primes, a Miller-Rabin pseudorandom prime number generator for Deno: [jacob-ian/deno_random_primes](https://github.com/jacob-ian/deno_random_primes)
+
 **My favourite languages are ⌨️:**
 - TypeScript
 - Java
