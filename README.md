@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello universe 👋
 
-<!--
-**jacob-ian/jacob-ian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a stoic that loves to build web apps
 
-Here are some ideas to get you started:
+**I'm currently working on 👨🏻‍💻 :**
+- A blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm currently studying 📖:**
+- *Clean Code* by Uncle Bob
+
+**My favourite languages are ⌨️:**
+- TypeScript
+- Java
+
+**My favourite libaries are 📚:**
+- [Angular](https://github.com/angular/angular)
+- [RxJS](https://github.com/ReactiveX/rxjs)
+- [Deno](https://github.com/denoland/deno)
+
+> He who has a why to live can bear almost any how. - Nietzsche
