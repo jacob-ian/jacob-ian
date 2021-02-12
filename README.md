@@ -6,7 +6,7 @@
   - A blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com)) - [jacob-ian/PortfolioWeb](https://github.com/jacob-ian/PortfolioWeb)
 
 **📖  &nbsp; I'm currently studying:**
-  - *Clean Code* by Uncle Bob
+  - *Extreme Programming Explained, Ed 2* by Kent Beck
 
 **🔥 &nbsp; My favourite projects are:**
   - 📃 &nbsp; [transcrypt.app](https://transcrypt.app), the free YouTube video transcript downloader: [jacob-ian/TranscryptApp](https://github.com/jacob-ian/TranscryptApp)
