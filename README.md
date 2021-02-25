@@ -7,6 +7,7 @@
   - A RESTful API built with the Agile Principles and Values in mind. - [jacob-ian/ExpressRestApi](https://github.com/jacob-ian/ExpressRestApi)
 
 **📖  &nbsp; I'm currently studying:**
+  - *Design Patterns: Elements of Reusable Object-Oriented Software* by Erich Gamma
   - *Extreme Programming Explained, Ed 2* by Kent Beck
 
 **🔥 &nbsp; My favourite projects are:**
