@@ -8,12 +8,13 @@
 
 **📖  &nbsp; I'm currently studying:**
   - *Design Patterns: Elements of Reusable Object-Oriented Software* by Erich Gamma
-  - *Extreme Programming Explained, Ed 2* by Kent Beck
 
 **🔥 &nbsp; My favourite projects are:**
   - 📃 &nbsp; [transcrypt.app](https://transcrypt.app), the free YouTube video transcript downloader: [jacob-ian/TranscryptApp](https://github.com/jacob-ian/TranscryptApp)
   - 📡 &nbsp; PulsarClassifier, a machine learning program that detects pulsars from CIRA radio telescope data: [jacob-ian/PulsarClassifier](https://github.com/jacob-ian/PulsarClassifier)
+  - ✨ &nbsp; Anniverse, an Angular SPA using HTML5 Canvas and GoF Design Patterns to draw a starry night with constellations: [jacob-ian/Anniverse](https://github.com/jacob-ian/anniverse)
   - 🦕 &nbsp; Deno Random Primes, a Miller-Rabin pseudorandom prime number generator for Deno: [jacob-ian/deno_random_primes](https://github.com/jacob-ian/deno_random_primes)
+
 
 **⌨️ &nbsp; My favourite languages are:** 
   - TypeScript
