@@ -3,8 +3,7 @@
 ### I am a stoic that loves to build web apps
 
 **👨🏻‍💻 &nbsp; I'm currently working on:**
-  - A blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com)) - [jacob-ian/PortfolioWeb](https://github.com/jacob-ian/PortfolioWeb)
-  - A RESTful API built with the Agile Principles and Values in mind. - [jacob-ian/ExpressRestApi](https://github.com/jacob-ian/ExpressRestApi)
+  - My blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com)) - [jacob-ian/PortfolioWeb](https://github.com/jacob-ian/PortfolioWeb)
 
 **📖  &nbsp; I'm currently studying:**
   - *Design Patterns: Elements of Reusable Object-Oriented Software* by Erich Gamma
