@@ -25,3 +25,4 @@
   - [Deno](https://github.com/denoland/deno)
 
 > He who has a why to live can bear almost any how. - Nietzsche
+> How long are you going to wait before you demand the best for yourself? - Epictetus
