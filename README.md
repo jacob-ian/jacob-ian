@@ -20,8 +20,8 @@
   - Java
 
 **📚 &nbsp; My favourite libraries are:**
+  - [React](https://github.com/facebook/react)
   - [Angular](https://github.com/angular/angular)
-  - [RxJS](https://github.com/ReactiveX/rxjs)
   - [Deno](https://github.com/denoland/deno)
 
 > He who has a why to live can bear almost any how. - Nietzsche
