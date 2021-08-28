@@ -4,6 +4,7 @@
 
 **👨🏻‍💻 &nbsp; I'm currently working on:**
   - My blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com)) - [jacob-ian/PortfolioWeb](https://github.com/jacob-ian/PortfolioWeb)
+  - A test project with event-driven microservices architecture, using Google Cloud Pubsub ([jacob-ian/pubsub-gke](https://github.com/jacob-ian/pubsub-gke))
 
 **📖  &nbsp; I'm currently studying:**
   - *Design Patterns: Elements of Reusable Object-Oriented Software* by Erich Gamma
