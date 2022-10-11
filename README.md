@@ -11,6 +11,7 @@
   - 📡 &nbsp; PulsarClassifier, a machine learning program that detects pulsars from CIRA radio telescope data: [jacob-ian/PulsarClassifier](https://github.com/jacob-ian/PulsarClassifier)
   - ✨ &nbsp; [Anniverse](https://dhaniandjacob.com), an Angular SPA using HTML5 Canvas and GoF Design Patterns to draw star constellations: [jacob-ian/Anniverse](https://github.com/jacob-ian/anniverse)
   - 🦕 &nbsp; Deno Random Primes, a Miller-Rabin pseudorandom prime number generator for Deno: [jacob-ian/deno_random_primes](https://github.com/jacob-ian/deno_random_primes)
+  - 📦 &nbsp; Firebase Functions Exporter: [jacob-ian/firebase-functions-exporter](https://github.com/jacob-ian/firebase-functions-exporter)
 
 
 **⌨️ &nbsp; My favourite languages are:** 
