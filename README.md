@@ -3,11 +3,8 @@
 ### I am a stoic that loves to build web apps
 
 **👨🏻‍💻 &nbsp; I'm currently working on:**
-  - My blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com)) - [jacob-ian/PortfolioWeb](https://github.com/jacob-ian/PortfolioWeb)
-  - A test project with event-driven microservices architecture, using Google Cloud Pubsub ([jacob-ian/pubsub-gke](https://github.com/jacob-ian/pubsub-gke))
+  - My blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com)) - [jacob-ian/jacobianmatthews.com](https://github.com/jacob-ian/jacobianmatthews.com)
 
-**📖  &nbsp; I'm currently studying:**
-  - *Design Patterns: Elements of Reusable Object-Oriented Software* by Erich Gamma
 
 **🔥 &nbsp; My favourite projects are:**
   - 📃 &nbsp; [transcrypt.app](https://transcrypt.app), the free YouTube video transcript downloader: [jacob-ian/TranscryptApp](https://github.com/jacob-ian/TranscryptApp)
@@ -17,14 +14,12 @@
 
 
 **⌨️ &nbsp; My favourite languages are:** 
+  - Go
   - TypeScript
-  - Java
+
 
 **📚 &nbsp; My favourite libraries are:**
   - [React](https://github.com/facebook/react)
-  - [Angular](https://github.com/angular/angular)
-  - [Deno](https://github.com/denoland/deno)
+  - [grpc-web](https://github.com/improbable-eng/grpc-web)
 
 > He who has a why to live can bear almost any how. - Nietzsche
-
-> How long are you going to wait before you demand the best for yourself? - Epictetus
