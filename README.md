@@ -1,6 +1,6 @@
 ### Hello universe 👋
 
-### I am a stoic that loves to build web apps
+### I am a stoic that loves to build solutions
 
 **👨🏻‍💻 &nbsp; I'm currently working on:**
   - My blog and development portfolio ([jacobianmatthews.com](https://jacobianmatthews.com)) - [jacob-ian/jacobianmatthews.com](https://github.com/jacob-ian/jacobianmatthews.com)
