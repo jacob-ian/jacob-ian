@@ -18,9 +18,4 @@
   - Go
   - TypeScript
 
-
-**📚 &nbsp; My favourite libraries are:**
-  - [React](https://github.com/facebook/react)
-  - [grpc-web](https://github.com/improbable-eng/grpc-web)
-
 > He who has a why to live can bear almost any how. - Nietzsche
